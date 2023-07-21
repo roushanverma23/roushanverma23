@@ -11,11 +11,6 @@
 
 <br />
 
-### Stats
-
-| <img src="https://github-readme-stats.vercel.app/api?username=roushanverma23&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushanverma23"/> |
-|:------------:|:------------:|
-
 ### Contact Me
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/roushanverma38/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
