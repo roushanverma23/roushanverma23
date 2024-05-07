@@ -8,6 +8,10 @@
 - 👀  Interested in App Development , Data Analytics, Growth & Full Stack Development 
 <br />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/roushanverma38/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Roushan Verma" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -31,14 +35,16 @@
 
 ### Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=roushanverma23&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushanverma23"/> |
-|:------------:|:------------:|
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roushanverma23&show_icons=true&locale=en&layout=compact" alt="Roushan verma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roushanverma23&show_icons=true&locale=en" alt="Roushan verma" /></p>
+
+
 
 ### Contact Me
 <p>
-  <a target="_blank"href="https://www.linkedin.com/in/roushanverma38/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:roushanvermanitt23@gmail.com?subject=Hello%20Ayush,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/roushan_vermaa//"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:roushanverma041@gmail.com?subject=Hello%20Roushan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
